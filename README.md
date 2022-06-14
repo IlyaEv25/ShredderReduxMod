@@ -4,7 +4,7 @@ This is a modification of https://www.clicktorelease.com/code/codevember-2017/sh
 "Particles" can now group in forms from .obj files.
 
 THREE.js of 88 version is used. 
-
+(It is probably always a good idea to max drawRange)
 Example with a castle form:
 
 ![Screenshot from 2022-06-14 20-21-42](https://user-images.githubusercontent.com/25286058/173615442-2f4acf60-70f6-43ed-a43d-e7ed089fa131.png)
