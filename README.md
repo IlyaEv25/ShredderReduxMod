@@ -1,7 +1,7 @@
 # ShredderReduxMod
 This is a modification of https://www.clicktorelease.com/code/codevember-2017/shredder-redux/
 
-"Particles" can now group in from from .obj files.
+"Particles" can now group in forms from .obj files.
 
 Example with a castle form:
 
